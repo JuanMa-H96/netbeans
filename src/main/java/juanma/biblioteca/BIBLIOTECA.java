@@ -136,5 +136,9 @@ public class BIBLIOTECA {
             }
 
         } while(opcion != 4);
+        
+         JOptionPane.showMessageDialog(null, "esta este es el primer cambio");
     }
+    
+   
 }
